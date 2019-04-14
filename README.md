@@ -71,3 +71,12 @@ Nếu bạn muốn cài đặt thêm Keras (High-end API của Tensorflow)
 ```
 pip install keras
 ```
+
+Ngoài ra, mình còn dùng nhiều thư viện phụ khác. Nhưng sẽ không đề cập tại đây, bạn nào cần gì trong quá trình làm thì sẽ cài từ từ. Hãy nhớ đến cú pháp bên dưới:
+```
+pip install <Tên package>
+```
+Ví dụ: Thư viện đọc và xử lí ảnh PILLOW (Phiên bản nhẹ người hơn của OpenCV :))) ) 
+```
+pip install pillow
+```
