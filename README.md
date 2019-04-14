@@ -7,11 +7,17 @@ Các bạn đợi một tí, vì file cũng nặng nên download hơi lâu.
 ### a. For windows:
 Chọn version đúng với máy nha, nếu không chắc máy 64 bit hay 32 thì download 32 :) .
 Download xong, mấy bạn mở file exe lên:
+
 ![](Image/2.PNG)
+
 Chọn next -> I agree -> Next.
+
 ![](Image/3.PNG)
+
 Tới bước này các bạn có thể tùy ý chọn đường dẫn thích hợp cho máy của mình.
+
 ![](Image/4.PNG)
+
 Ở đây cứ nhấn Install.
 Sau đó, Anaconda sẽ hỏi bạn có muốn cài đặt Visual Studio Code không. Riêng mình thì mình reccommend install, nhất là với các bạn mới dùng Python và vẫn chưa có IDE.
 ### b. For Linux:
@@ -23,7 +29,9 @@ chmod 777 Anaconda*.sh
 (Sorry vì mình dẹp Ubuntu vào rồi nên không ghi chi tiết dc :cry: )
 ## Sử dụng Anaconda
 **Đối với Windows:** Bấm vào thanh search, tìm Anaconda Prompt
+
 ![](Image/5.PNG)
+
 **Đối với Ubuntu:** Mở terminal lên (Lưu ý là đã cài đặt Environment Variable, Windows nó tự cài).
 
 Mở Anaconda prompt lên. Nhập lệnh sau đây:
